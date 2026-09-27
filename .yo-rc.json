@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "ecom",
+    "buildTool": "maven",
+    "cacheProvider": "no",
+    "clientFramework": "angular",
+    "clientTestFrameworks": [],
+    "clientTheme": "none",
+    "creationTimestamp": 1790078571743,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "enableHibernateCache": null,
+    "enableTranslation": true,
+    "entities": [],
+    "feignClient": null,
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "MGRhYzU3NWYyNzBlMmUzNjFiNWY4YjBmZGExYmE0OTJmYWY4ZTIxYmZjMmU4MjgxYTE4M2I1YTNjNDMyOTQyYzEyODQ2YThiOTgyNTY5NDY5NzY3NjhmMDk3ZGIzMDNlNTAwN2M1MDc0ZDRmODk1ZjE2NmMyN2IzMzUzY2Y0Y2I=",
+    "languages": ["en"],
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "en",
+    "packageName": "com.polytech.ecom",
+    "prodDatabaseType": "postgresql",
+    "reactive": false,
+    "serverPort": null,
+    "serviceDiscoveryType": null,
+    "syncUserWithIdp": null,
+    "testFrameworks": ["gatling", "cucumber"],
+    "withAdminUi": true
+  }
+}
